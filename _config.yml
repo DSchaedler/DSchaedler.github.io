@@ -23,15 +23,14 @@ email: deeschaedler@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A micro-blog to document my journey through life, adulthood, and IT.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ejectdrive.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  DSchaedler
 
 # Build settings
-theme: minima
 plugins:
-  - jekyll-feed
-
+  - jekyll-remote-theme
+remote_theme: jekyll/minima
 minima:
   skin: dark
 

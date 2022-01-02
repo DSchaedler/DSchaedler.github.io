@@ -39,6 +39,9 @@ Challenge Rating is a lie. What's more important is action and damage economy. I
 - Make small enemies have an extra +1 to attack if they have an ally within 5 feet of a party member.
 - Give a big enemy or commander a multiattack option that recharges on a 5 or 6.
 - Give players an ally NPC for the encounter. The NPC will act on their own (DM controlled) but follow the suggestions or orders of the players. The NPC should fill a missing niche in the party as a healer, crowd control, damage sponge, etc. Avoid role-playing with yourself, make them useful but ultimately unimportant.
+- If you're going to have just 4 (Insert generic enemy here) attack the player, have one big enemy attack, or make one enemy clearly weaker and one enemy clearly stronger
+- Big enemies are cool but reduce the effectiveness of Utility or Crowd Control characters.
+- Salt and Pepper to taste.
 
 **Shops:**  
 Adventuring is a well known profession in the D&D world. Most shops will carry basic adventuring supplies. Niche items will be available at weird shops in major cities.

@@ -44,6 +44,12 @@ Challenge Rating is a lie. What's more important is action and damage economy. I
 Adventuring is a well known profession in the D&D world. Most shops will carry basic adventuring supplies. Niche items will be available at weird shops in major cities.
 
 **NPCs:**  
+Every NPC needs to exist to further the plot in some way. Even generic shop keepers should have quests or relationships that tie them into the world and ground them as real people.
+
+- The inkeeper is out of ale because his most recent shipment was destroyed in the latest of a series of bandit attacks.
+- The general goods shop owner has a daughter who recently left to visit her girlfriend. The shop owner was supposed to hear from her 3 days ago, and hasn't yet.
+- The captain of the Guard is having an affair with the duchess. They agree to arrange an audience with her in exchange for the party keeping quiet.
+
 Characteristics
 - Height
 - Skin Tone
@@ -52,6 +58,8 @@ Characteristics
 - Voice pattern
 - Hair color and style
 - Demeanor
+- Clothing
+- Aparrent Wealth
 
 Distinguishing Features
 - Scars

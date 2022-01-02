@@ -27,10 +27,8 @@ permalink: /latest/
       {%- endif -%}</p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ sites.posts.first.content }}
-  </div>
-
+  {{ sites.posts.first.content }}
+  
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

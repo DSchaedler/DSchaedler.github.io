@@ -28,7 +28,7 @@ permalink: /latest/
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    {{ sites.posts.first.content }}
   </div>
 
   {%- if site.disqus.shortname -%}

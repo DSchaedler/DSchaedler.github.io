@@ -1,7 +1,4 @@
 ---
-layout: post
-title: Latest
-permalink: /latest/
+layout: none
 ---
-
-{% assign post = site.posts.first %}
+{{ site.posts.first }}

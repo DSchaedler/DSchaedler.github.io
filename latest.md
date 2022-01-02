@@ -2,4 +2,4 @@
 layout: none
 permalink: /latest/
 ---
-{{ site.posts.first }}
+{{ site.posts.first.content }}

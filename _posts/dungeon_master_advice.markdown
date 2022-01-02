@@ -42,3 +42,18 @@ Challenge Rating is a lie. What's more important is action and damage economy. I
 
 **Shops:**  
 Adventuring is a well known profession in the D&D world. Most shops will carry basic adventuring supplies. Niche items will be available at weird shops in major cities.
+
+**NPCs:**
+Characteristics
+- Height
+- Skin Tone
+- Race
+- Age
+- Voice pattern
+- Hair color and style
+- Demeanor
+
+Distinguishing Features
+- Scars
+- Prosthetics or Implants (or embeded weapons)
+- Missing fingers, limbs, sensory organs

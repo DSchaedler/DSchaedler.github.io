@@ -15,7 +15,7 @@ Forget about XP, forget about challenge rating, forget about loot tables. Forget
 
 Take in mind with all of this advice to always favor the players.
 
-**House Rules**
+**House Rules:**  
 - Healh potions heal a random amount as a bonus action, and their maximum amount as an action.
 - Ties favor the player.
 - Critical fails ( Natural 1 ) deal 1d4 damage to the roller.
@@ -32,5 +32,5 @@ Challenge Rating is a lie. What's more important is action and damage economy. I
 - Give a big enemy or commander a multiattack option that recharges on a 5 or 6.
 - Give players an ally NPC for the encounter. The NPC will act on their own (DM controlled) but follow the suggestions or orders of the players. The NPC should fill a missing niche in the party as a healer, crowd control, damage sponge, etc. Avoid role-playing with yourself, make them useful but ultimately unimportant.
 
-**Shops**
+**Shops:**  
 Adventuring is a well known profession in the D&D world. Most shops will carry basic adventuring supplies. Niche items will be available at weird shops in major cities.

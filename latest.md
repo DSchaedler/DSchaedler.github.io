@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 permalink: /latest/
 ---
-{% assign page.content = site.posts.first.content %}
+{{ site.posts.first }}

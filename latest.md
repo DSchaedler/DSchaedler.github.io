@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /latest/
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 

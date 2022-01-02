@@ -2,4 +2,4 @@
 layout: post
 permalink: /latest/
 ---
-{% assign post = site.posts.first %}
+{% assign page = site.posts.first %}

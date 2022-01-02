@@ -25,9 +25,10 @@ D&D is designed for 6-8 Medium to Hard encounters per day, approxamately 18 roun
 
 Challenge Rating is a lie. What's more important is action and damage economy. I ran a campaign for a single player against a group of bandits. Based on their CR, it should have been easy, but the player was decimated.
 
+- Keep the total number of enemies low, prefferably less than 3-4. If you need more enemies, make them 1 hit kills, with a 10% chance of surviving an attack. Track how many are left, not individual creatures.
 - Make sure the number of actions per round is balanced between enemies and players. Make sure the damage per attack is balanced. By balanced, I mean almost equal. 
 - Give big enemies a cool ability they can use that recharges if they roll a 5 or 6. 
-- Make small enemies have an extra +1 to attack if they have an ally within 5 feet of a party memver.
+- Make small enemies have an extra +1 to attack if they have an ally within 5 feet of a party member.
 - Give a big enemy or commander a multiattack option that recharges on a 5 or 6.
 - Give players an ally NPC for the encounter. The NPC will act on their own (DM controlled) but follow the suggestions or orders of the players. The NPC should fill a missing niche in the party as a healer, crowd control, damage sponge, etc. Avoid role-playing with yourself, make them useful but ultimately unimportant.
 

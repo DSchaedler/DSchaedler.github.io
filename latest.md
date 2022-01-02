@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: post
 title: Latest
 permalink: /latest/
 ---
-{{ site.posts.first }}
+
+{% assign post = site.posts.first %}

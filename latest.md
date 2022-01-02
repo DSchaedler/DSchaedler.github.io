@@ -1,4 +1,6 @@
 ---
 layout: post
+title: Latest
+permalink: /latest/
 ---
-{ site.posts.latest }
+{ site.posts.first }

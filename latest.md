@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Latest
 permalink: /latest/
 excerpt_separator: <!--more-->

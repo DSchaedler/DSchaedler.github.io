@@ -20,6 +20,14 @@ Take in mind with all of this advice to always favor the players.
 - Ties favor the player.
 - Critical fails ( Natural 1 ) deal 1d4 damage to the roller.
 
+**Player Responsibilities:**  
+- Knowing and understanding their character sheet and abilities.
+- Tracking spell slots, materials, concentration.
+- Tracking ammunition.
+- Notifying DM about status effects, low health, resistances, immunities, etc.
+- Finding answers to technical questions in source books. Rulings at DM discretion.
+- Having a plan.
+
 **Enemies and Encounters:**  
 D&D is designed for 6-8 Medium to Hard encounters per day, approxamately 18 rounds of combat. If you like to have players long rest at the end of each session, make your encounters harder.
 

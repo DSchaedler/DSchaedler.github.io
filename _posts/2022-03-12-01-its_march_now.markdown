@@ -38,3 +38,10 @@ This was supposed to be a year of taking care of myself.
 This was supposed to be a better year.
 
 But no one will even read this. So I guess things will be okay.
+
+---
+
+National Suicide Prevention Lifeline  
+Hours: Available 24 hours.  
+Languages: English, Spanish.  
+800-273-8255

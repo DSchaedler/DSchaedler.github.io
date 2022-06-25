@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+You may be looking for the [Unofficial DragonRuby Wiki](https://ejectdrive.com/Ruby_for_Dragons/).
+
 My name is Dee.
 
 I'm a nerd, and this is my website. I've had several before, but this one is the one I have now. I usually start making things, and then abandon them. I will probably abandon this site.

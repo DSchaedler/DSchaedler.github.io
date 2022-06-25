@@ -4,9 +4,6 @@ title:  "Elementary OS: Linux Desktop"
 date:   2022-06-25 00:00:00 -0500
 categories: personal blog
 ---
-# Elementary OS: Linux Desktop
-
-**This post is under construction**
 
 I've always been in a sort of love hate relationship with Linux. I'll try to explain using Android and iOS as an example.
 

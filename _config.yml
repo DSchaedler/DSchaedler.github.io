@@ -27,6 +27,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  DSchaedler
 
+collections:
+- personal
+- blog
+- technology
+- hobbies
+
 # Build settings
 plugins:
   - jekyll-remote-theme

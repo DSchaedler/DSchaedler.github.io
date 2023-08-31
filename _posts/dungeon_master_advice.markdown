@@ -2,7 +2,7 @@
 layout: post
 title:  "D&D Encounters"
 date:   2022-01-02 07:18:00 -0500
-categories: hobbies blog
+tags: hobbies blog
 ---
 
 I DM on occasion, and I always hate planning. It's hard to have compelling adventure hooks, it's hard to have interesting and balanced foes, and it's hard to improvise on the fly. Even running pre-written modules requires so much planning, studying, and materials preparation. If you ever play D&D, thank your DM.

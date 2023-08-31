@@ -14,7 +14,7 @@ plugins:
   - jekyll-remote-theme
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: dark  
 {% endhighlight %}
 
 in my `_config.yml` file. Things don't have to be complicated, but the internet makes them so.

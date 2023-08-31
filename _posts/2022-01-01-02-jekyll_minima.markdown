@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll Minima"
 date:   2022-01-01 11:23:00 -0500
-categories: technology blog
+tags: technology blog
 ---
 Seems only fitting for the first real post on this blog to be meta.
 

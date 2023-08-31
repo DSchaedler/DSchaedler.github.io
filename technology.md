@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest
+title: Technology
 permalink: /technology/
 ---
 

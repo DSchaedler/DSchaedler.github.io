@@ -2,7 +2,7 @@
 layout: post
 title:  "New Year, New Dee"
 date:   2022-01-01 00:00:00 -0500
-tags: personal blog
+tags: personal
 ---
 This year is going to be different.
 

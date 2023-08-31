@@ -2,7 +2,7 @@
 layout: post
 title:  "It's March Now"
 date:   2022-03-12 15:00:00 -0500
-categories: personal blog
+tags: personal blog
 ---
                              
 It's March now.

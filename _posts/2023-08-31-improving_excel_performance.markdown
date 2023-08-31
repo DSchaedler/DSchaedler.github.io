@@ -103,7 +103,7 @@ The most reliable way is to run the command `Excel.exe /x`. [Other methods](http
 
 **Drawback**: Pivot Tables need to be refreshed before they can be used.
 
-This needs to be applied to all pivot tables in a workbook individually. The following macro can apply this to all existing Pivot Tables. Credit to https://excelribbon.tips.net/T008669_Reducing_File_Sizes_for_Workbooks_with_PivotTables.html.
+This needs to be applied to all pivot tables in a workbook individually. The following macro can apply this to all existing Pivot Tables. Credit to [https://excelribbon.tips.net/T008669_Reducing_File_Sizes_for_Workbooks_with_PivotTables.html](https://excelribbon.tips.net/T008669_Reducing_File_Sizes_for_Workbooks_with_PivotTables.html).
 
 ```
 Sub PTReduceSize()
@@ -128,7 +128,7 @@ End Sub
 [https://exceloffthegrid.com/how-to-open-multiple-instances-of-excel/](https://exceloffthegrid.com/how-to-open-multiple-instances-of-excel/)  
 [https://www.contextures.com/xlpivot11.html#removedups](https://www.contextures.com/xlpivot11.html#removedups)  
 [https://support.microsoft.com/en-us/office/clean-excess-cell-formatting-on-a-worksheet-e744c248-6925-4e77-9d49-4874f7474738?ui=en-us&rs=en-gb&ad=gb](https://support.microsoft.com/en-us/office/clean-excess-cell-formatting-on-a-worksheet-e744c248-6925-4e77-9d49-4874f7474738?ui=en-us&rs=en-gb&ad=gb)  
-[https://support.microsoft.com/en-us/office/reduce-the-file-size-of-your-excel-spreadsheets-c4f69e3a-8eea-4e9d-8ded-0ac301192bf9#ID0EBDF=Office_2013_-_2016](https://support.microsoft.com/en-us/office/reduce-the-file-size-of-your-excel-spreadsheets-c4f69e3a-8eea-4e9d-8ded-0ac301192bf9#ID0EBDF=Office_2013_-_2016)
+[https://support.microsoft.com/en-us/office/reduce-the-file-size-of-your-excel-spreadsheets-c4f69e3a-8eea-4e9d-8ded-0ac301192bf9#ID0EBDF=Office_2013_-_2016](https://support.microsoft.com/en-us/office/reduce-the-file-size-of-your-excel-spreadsheets-c4f69e3a-8eea-4e9d-8ded-0ac301192bf9#ID0EBDF=Office_2013_-_2016)  
 
 # The Blog Part
 In my role as a Workforce Management Analyst, we use Excel a lot. Sure, there are probably better tools out there for the data that we handle. But those tools have learning curves, and Excel works. See [https://xkcd.com/2180/](https://xkcd.com/2180/). My team was regularly maxing out the RAM that 32 bit Excel could handle, and our IT department refused to install the 64 bit version (for some unexplained reason). We were constantly running up against memory errors, crashing systems, and various errors. To combat this, we would start copying data out of one sheet and into another one. Now we are now bloating all of our sheets and causing even more memory issues if we try to open multiple at once.

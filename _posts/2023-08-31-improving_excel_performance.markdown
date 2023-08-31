@@ -12,7 +12,7 @@ See the end of the page if you want the "blog" part. I will typically list metho
 ## Consolidate Pivot Tables
 If two tables will reference the same data, copy the initial pivot table instead of creating a new one. This allows the tables to share a Pivot Cache.
 
-This macro will de-duplcate exisiting pivot tables. Be sure to create a backup. Credit to https://www.contextures.com/xlpivot11.html.
+This macro will de-duplcate exisiting pivot tables. Be sure to create a backup. Credit to [https://www.contextures.com/xlpivot11.html](https://www.contextures.com/xlpivot11.html).
 
 ```
 Sub CheckCaches()
@@ -121,16 +121,16 @@ End Sub
 ```
 
 # Sources
-https://learn.microsoft.com/en-us/office/troubleshoot/excel/clean-workbook-less-memory  
-https://learn.microsoft.com/en-GB/office/troubleshoot/excel/available-resources-errors  
-https://learn.microsoft.com/en-us/archive/blogs/the_microsoft_excel_support_team_blog/top-10-list-of-performance-issues-in-excel-workbooks  
-https://learn.microsoft.com/en-US/office/troubleshoot/excel/memory-usage-32-bit-edition-of-excel  
-https://exceloffthegrid.com/how-to-open-multiple-instances-of-excel/  
-https://www.contextures.com/xlpivot11.html#removedups  
-https://support.microsoft.com/en-us/office/clean-excess-cell-formatting-on-a-worksheet-e744c248-6925-4e77-9d49-4874f7474738?ui=en-us&rs=en-gb&ad=gb  
-https://support.microsoft.com/en-us/office/reduce-the-file-size-of-your-excel-spreadsheets-c4f69e3a-8eea-4e9d-8ded-0ac301192bf9#ID0EBDF=Office_2013_-_2016
+[https://learn.microsoft.com/en-us/office/troubleshoot/excel/clean-workbook-less-memory](https://learn.microsoft.com/en-us/office/troubleshoot/excel/clean-workbook-less-memory)  
+[https://learn.microsoft.com/en-GB/office/troubleshoot/excel/available-resources-errors](https://learn.microsoft.com/en-GB/office/troubleshoot/excel/available-resources-errors)  
+[https://learn.microsoft.com/en-us/archive/blogs/the_microsoft_excel_support_team_blog/top-10-list-of-performance-issues-in-excel-workbooks](https://learn.microsoft.com/en-us/archive/blogs/the_microsoft_excel_support_team_blog/top-10-list-of-performance-issues-in-excel-workbooks)  
+[https://learn.microsoft.com/en-US/office/troubleshoot/excel/memory-usage-32-bit-edition-of-excel](https://learn.microsoft.com/en-US/office/troubleshoot/excel/memory-usage-32-bit-edition-of-excel)  
+[https://exceloffthegrid.com/how-to-open-multiple-instances-of-excel/](https://exceloffthegrid.com/how-to-open-multiple-instances-of-excel/)  
+[https://www.contextures.com/xlpivot11.html#removedups](https://www.contextures.com/xlpivot11.html#removedups)  
+[https://support.microsoft.com/en-us/office/clean-excess-cell-formatting-on-a-worksheet-e744c248-6925-4e77-9d49-4874f7474738?ui=en-us&rs=en-gb&ad=gb](https://support.microsoft.com/en-us/office/clean-excess-cell-formatting-on-a-worksheet-e744c248-6925-4e77-9d49-4874f7474738?ui=en-us&rs=en-gb&ad=gb)  
+[https://support.microsoft.com/en-us/office/reduce-the-file-size-of-your-excel-spreadsheets-c4f69e3a-8eea-4e9d-8ded-0ac301192bf9#ID0EBDF=Office_2013_-_2016](https://support.microsoft.com/en-us/office/reduce-the-file-size-of-your-excel-spreadsheets-c4f69e3a-8eea-4e9d-8ded-0ac301192bf9#ID0EBDF=Office_2013_-_2016)
 
 # The Blog Part
-In my role as a Workforce Management Analyst, we use Excel a lot. Sure, there are probably better tools out there for the data that we handle. But those tools have learning curves, and Excel works. See https://xkcd.com/2180/. My team was regularly maxing out the RAM that 32 bit Excel could handle, and our IT department refused to install the 64 bit version (for some unexplained reason). We were constantly running up against memory errors, crashing systems, and various errors. To combat this, we would start copying data out of one sheet and into another one. Now we are now bloating all of our sheets and causing even more memory issues if we try to open multiple at once.
+In my role as a Workforce Management Analyst, we use Excel a lot. Sure, there are probably better tools out there for the data that we handle. But those tools have learning curves, and Excel works. See [https://xkcd.com/2180/](https://xkcd.com/2180/). My team was regularly maxing out the RAM that 32 bit Excel could handle, and our IT department refused to install the 64 bit version (for some unexplained reason). We were constantly running up against memory errors, crashing systems, and various errors. To combat this, we would start copying data out of one sheet and into another one. Now we are now bloating all of our sheets and causing even more memory issues if we try to open multiple at once.
 
 I initially put together this document in the team's share OneNote to help everyone manage their Excel experience. But I know that I'll use this information later, and what is a blog for if not this? It's not like I'm using it anyways.

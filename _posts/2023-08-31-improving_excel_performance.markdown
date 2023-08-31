@@ -2,7 +2,7 @@
 layout: post
 title:  "Improving Excel Performance"
 date:   2023-08-31 13:36:00 -0500
-categories: technology blog
+tags: technology blog
 ---
 
 See the end of the page if you want the "blog" part. I will typically list methods here from most impactful to least impactful, considering both performance and the end result of your spreadsheet.

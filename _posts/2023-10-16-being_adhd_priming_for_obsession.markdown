@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Being ADHD, Priming for Obsession"
-date:   2023-10-16 16:43:00 -0500
+date:   2023-10-16 15:43:00 -0500
 tags: personal
 ---
 

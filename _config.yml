@@ -30,6 +30,7 @@ github_username:  DSchaedler
 # Build settings
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 remote_theme: jekyll/minima
 minima:
   skin: dark

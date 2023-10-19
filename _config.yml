@@ -34,7 +34,8 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github,  user_url: "https://github.com/DSchaedler" }
+    - { platform: github,  user_url: "https://github.com/DSchaedler", title: "My Github" }
+    - { platform: github,  user_url: "https://github.com/DSchaedler/DSchaedler.github.io", title: "Site Source" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.

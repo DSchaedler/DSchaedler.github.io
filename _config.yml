@@ -23,7 +23,7 @@ email: deeschaedler@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A micro-blog to document my journey through life, adulthood, and IT.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ejectdrive.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ejectdrive.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  DSchaedler
 
@@ -36,6 +36,8 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/DSchaedler", title: "My Github" }
     - { platform: github,  user_url: "https://github.com/DSchaedler/DSchaedler.github.io", title: "Site Source" }
+    - { platform: linkedin,  user_url: "https://www.linkedin.com/in/dschaedler", title: "LinkedIn Profile" }
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

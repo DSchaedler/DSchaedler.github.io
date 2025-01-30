@@ -225,7 +225,7 @@ security in-a-box
 https://securityinabox.org/en/  
 
 ## Sources
-This document is compiled from the following sources. Due to the technical nature of the subject, some information may be paraphrased or copied verbatim. Efforts have been made to provide direct attribution where appropriate. To request removal of any content, please contact DSchaedler on Github or email deeschaedler@gmail.com.
+This document is compiled from the following sources. Due to the technical nature of the subject, some information may be paraphrased or copied verbatim. Efforts have been made to provide direct attribution where appropriate.
 
 ### [1]  
 "How Tails works"  

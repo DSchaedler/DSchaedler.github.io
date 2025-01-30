@@ -151,7 +151,7 @@ When Tails first starts, the welcome screen allows you to select:
 As well as other optional settings. For Users in the US, the default Language and format options will suffice. Click Start Tails to move to the next section.
 
 - Create Persistent Storage only if you need to save files to the flash drive. If someone gets hold of the drive, they could reverse the enryption and access the files.
-- Create Set an Administration Password to be able to perform administrative tasks like installing additional software or accessing the internal hard disks of the computer. [7](#7)
+- Set an Administration Password to be able to perform administrative tasks like installing additional software or accessing the internal hard disks of the computer. [7](#7)
 - Turn on the Offline Mode if you want to work completely offline for increased security. [7](#7)
 
 ### Desktop Environment

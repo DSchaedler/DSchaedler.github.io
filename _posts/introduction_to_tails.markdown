@@ -37,8 +37,8 @@ Tails and the Tor project were developed by the US Government for secure espiona
 If you follow the instructions provided by Tails, people will know that someone is using it, but they won't be able to tell who.
 
 ### Advantages
-- Use almost any computer, including those owned by other people. [1]
-- Leave no trace on the computer when you are done. [1]
+- Use almost any computer, including those owned by other people. [1](#1)
+- Leave no trace on the computer when you are done. [1](#1)
 - Save important files, emails, and bookmarks to persistent storage on the Tails drive. [1]
 
 ### What disappears?

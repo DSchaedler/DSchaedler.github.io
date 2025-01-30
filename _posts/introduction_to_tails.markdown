@@ -193,7 +193,7 @@ Onion services allow people to browse and publish anonymously, including publish
 Websites that are only available over Tor are called "Onions" and end in .onion. Onion Sites and Services are not indexed in search engines, and can be hard to find. Onion Services hosted by the Tor Project can be found at onion.torproject.org.
 
 ### Tor, Onion Services, and the Dark Web
-You may have heard that Tor is "The Dark Web". This is ostensibly true. Some definitions here are helpful here:
+You may have heard that Tor is "The Dark Web". This is ostensibly true. Some definitions are helpful here:
 - The Surface Web: This is anything you can find on Google or Bing. Social media, news sites, anything you can find with the right search terms.
 - The Deep Web: This is anything on the regular internet, but you can't search. Pages that require you to be logged in. The contents of your Cloud Storage drive. Companies internal websites for employees. The results of interactions with a website.
 - The Dark Web: Anything accessible only through an "overlay network" like Tor. These sites and their connections are usually encrypted, and run anonymously. These are .onion sites and services.

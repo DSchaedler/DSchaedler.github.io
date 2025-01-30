@@ -29,7 +29,7 @@ tags: technology
 - [Sources](#sources)
 
 ## What is Tails?
-Tails is designed to help you use the Internet anonymously and get around censorship. It lets you connect to the Internet using virtually any computer while leaving no trace of your activities after you have finished. Tails connects to the hardware of a computer but doesn’t use the operating system or disk drives. That means there is no permanent record of your activities on that computer. Once you remove the Tails USB Stick or DVD and restart the computer, there will be no way to tell Tails was used there. Tails is far safer than the typical operating system, but it is not foolproof. [3]
+Tails is designed to help you use the Internet anonymously and get around censorship. It lets you connect to the Internet using virtually any computer while leaving no trace of your activities after you have finished. Tails connects to the hardware of a computer but doesn’t use the operating system or disk drives. That means there is no permanent record of your activities on that computer. Once you remove the Tails USB Stick or DVD and restart the computer, there will be no way to tell Tails was used there. Tails is far safer than the typical operating system, but it is not foolproof. [3](#3)
 
 ### How good is this really?
 Tails and the Tor project were developed by the US Government for secure espionage. They realized that if they only used it themselves, everyone would be able to tell who was government and who wasn't. In order to keep it secure for their own use, they were forced to release it publicly and keep it secure for everyone to use. The US Goverment is still the primary financial backer of Tails and the Tor project.
@@ -39,25 +39,25 @@ If you follow the instructions provided by Tails, people will know that someone 
 ### Advantages
 - Use almost any computer, including those owned by other people. [1](#1)
 - Leave no trace on the computer when you are done. [1](#1)
-- Save important files, emails, and bookmarks to persistent storage on the Tails drive. [1]
+- Save important files, emails, and bookmarks to persistent storage on the Tails drive. [1](#1)
 
 ### What disappears?
-- Websites that you visited. [1]
-- Passwords that you typed. [1]
-- Networks and WiFi that you connected to. [1]
+- Websites that you visited. [1](#1)
+- Passwords that you typed. [1](#1)
+- Networks and WiFi that you connected to. [1](#1)
 
 ### Tails is safe, but not magic
-- Files you share may still have date, time, location, and device information. [2]
-- Using Tails for more than one purpose at a time may reveal your identity. [2]
-- Tails cannot hide that you are using Tails and Tor from sites you connect to. [2]
-- Tails may not hide your communications from skilled, determined attackers. [2]
-- If you use a computer which is compromised, your security may be as well. [2]
+- Files you share may still have date, time, location, and device information. [2](#2)
+- Using Tails for more than one purpose at a time may reveal your identity. [2](#2)
+- Tails cannot hide that you are using Tails and Tor from sites you connect to. [2](#2)
+- Tails may not hide your communications from skilled, determined attackers. [2](#2)
+- If you use a computer which is compromised, your security may be as well. [2](#2)
 
 ## Starting Tails
 This document assumes that you have been provided with a copy of Tails on a USB Drive.  
 
-For the best security, do not plug in your Tails USB stick while another operating system is running on the computer. [5]  
-Use your Tails USB stick only to run Tails. Do not use your Tails USB stick to transfer files to or from another operating system. [5]  
+For the best security, do not plug in your Tails USB stick while another operating system is running on the computer. [5](#5)  
+Use your Tails USB stick only to run Tails. Do not use your Tails USB stick to transfer files to or from another operating system. [5](#5)  
 
 Getting into Tails can be tricky. The two primary methods are from inside Windows, or using the computer's Boot Menu key.
 
@@ -122,12 +122,12 @@ https://tails.net/doc/first_steps/start/pc/index.en.html#not-entirely
 - It's recommended that you use Tails on public WiFi or in a Public Space, like a Library or Internet Cafe.
 - You may also be able to use the Library's computers instead of your own computer, which provides an additional layer of security.
 - Leave your phone at home if it's safe to do so. See "Turn off your phone!" in the Additional Resources for more advice.
-- Use Tails sessions for only one purpose at a time. [4]
-- Use a password manager to paste saved passwords. This way, you don't have to type passwords that might be visible to people or cameras near you. [5]
-- Use the screen keyboard, if you are using a public computer or worry that the computer might have a keylogger. [5]
+- Use Tails sessions for only one purpose at a time. [4](#4)
+- Use a password manager to paste saved passwords. This way, you don't have to type passwords that might be visible to people or cameras near you. [5](#5)
+- Use the screen keyboard, if you are using a public computer or worry that the computer might have a keylogger. [5](#5)
 
 ### Accessibility
-You can activate several assistive technologies, like a screen reader or large text, from the accessibility menu in the top bar, the icon that looks like a person. [6]
+You can activate several assistive technologies, like a screen reader or large text, from the accessibility menu in the top bar, the icon that looks like a person. [6](#6)
 - To hear screen elements spoken to you, turn on the Screen Reader from the accessibility menu.
 - If you prefer a pointing device over the keyboard, turn on the Screen Keyboard from the accessibility menu.
 
@@ -150,8 +150,8 @@ When Tails first starts, the welcome screen allows you to select:
 As well as other optional settings. For Users in the US, the default Language and format options will suffice. Click Start Tails to move to the next section.
 
 - Create Persistent Storage only if you need to save files to the flash drive. If someone gets hold of the drive, they could reverse the enryption and access the files.
-- Create Set an Administration Password to be able to perform administrative tasks like installing additional software or accessing the internal hard disks of the computer. [7]
-- Turn on the Offline Mode if you want to work completely offline for increased security. [7]
+- Create Set an Administration Password to be able to perform administrative tasks like installing additional software or accessing the internal hard disks of the computer. [7](#7)
+- Turn on the Offline Mode if you want to work completely offline for increased security. [7](#7)
 
 ### Desktop Environment
 When Tails Loads, you will be presented with a Desktop Computer environment that you can do your work in. Familiarize yourself with the location of the following:

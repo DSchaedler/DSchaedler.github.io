@@ -8,7 +8,7 @@ tags: technology
 # Introduction to Tails
 
 ## Table of Contents
-[What is Tails?](##-what-is-tails?)
+[What is Tails?](#-what-is-tails?)
 
 ## What is Tails?
 Tails is designed to help you use the Internet anonymously and get around censorship. It lets you connect to the Internet using virtually any computer while leaving no trace of your activities after you have finished. Tails connects to the hardware of a computer but doesn’t use the operating system or disk drives. That means there is no permanent record of your activities on that computer. Once you remove the Tails USB Stick or DVD and restart the computer, there will be no way to tell Tails was used there. Tails is far safer than the typical operating system, but it is not foolproof. [3]

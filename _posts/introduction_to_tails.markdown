@@ -126,6 +126,7 @@ https://tails.net/doc/first_steps/start/pc/index.en.html#not-entirely
 - Use Tails sessions for only one purpose at a time. [4](#4)
 - Use a password manager to paste saved passwords. This way, you don't have to type passwords that might be visible to people or cameras near you. [5](#5)
 - Use the screen keyboard, if you are using a public computer or worry that the computer might have a keylogger. [5](#5)
+- If someone interrupts you while using Tails (or tries to arrest you) immediately unplug the Tails Drive and unplug the computer or turn it off. Destroy the Tails drive if possible.
 
 ### Accessibility
 You can activate several assistive technologies, like a screen reader or large text, from the accessibility menu in the top bar, the icon that looks like a person. [6](#6)

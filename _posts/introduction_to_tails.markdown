@@ -5,7 +5,7 @@ date:   2025-01-30 00:00:00 -0500
 tags: technology
 ---
 
-#Introduction to Tails
+# Introduction to Tails
 
 ## Table of Contents
 - [What is Tails?](#-what-is-tails?)

@@ -13,7 +13,16 @@ tags: technology
   - [Advantages](#advantages)
   - [What disappears?](#what-disappears)
   - [Tails is safe, but not magic](#tails-is-safe-but-not-magic)
+- [Starting Tails](#starting-tails)
+  - [Booting the Tails USB from Windows](#booting-the-tails-usb-from-windows)
+  - [Booting the Tails USB without access to Windows](#booting-the-tails-usb-without-access-to-windows)
+  - [Troubleshooting Tails not starting at all](#troubleshooting-tails-not-starting-at-all)
 - [Using Tails](#using-tails)
+  - [Accessibility](#accessibility)
+  - [Welcome Screen](#welcome-screen)
+  - [Desktop Environment](#desktop-environment)
+  - [Included Software](#included-software)
+- [Using the Tor Browser](#using-the-tor-browser)
 - [Additional Digital Security Resources](#additional-digital-security-resources)
 - [Sources](#sources)
 
@@ -68,7 +77,7 @@ Windows will shut down, reboot, and you should have options of possible boot dev
 - The Troubleshooting Mode entry disables some features and might work better on some computers.
 - The External Hard Disk entry makes it possible to start from some problematic USB sticks.
 
-### Booting the Tails USB without access to Windows.
+### Booting the Tails USB without access to Windows
 https://tails.net/doc/first_steps/start/pc/index.en.html#boot-menu-key  
 
 1. Shut down the computer and plug in the Tails USB stick.
@@ -160,7 +169,7 @@ When Tails Loads, you will be presented with a Desktop Computer environment that
 
 As well as other applications for specific purposes. The Tails Documentation contains more details on how to use each of these applications to best secure your online experience.
 
-### Using the Tor Browser
+## Using the Tor Browser
 
 ## Additional Digital Security Resources
 Turn off your phone! And other basic digital security strategies.  

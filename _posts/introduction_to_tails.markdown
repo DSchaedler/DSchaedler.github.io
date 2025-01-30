@@ -170,8 +170,46 @@ When Tails Loads, you will be presented with a Desktop Computer environment that
 As well as other applications for specific purposes. The Tails Documentation contains more details on how to use each of these applications to best secure your online experience.
 
 ## Using the Tor Browser
+The Tor Browser is the core of the Tails experience. Tor uses what is called "Onion Routing" to pass your information through multiple servers, encrypting it at each step. This ensures that almost anyone watching it can't see what you're doing, only that you're using Tor.
+
+It's important to note that any site you connect to can absolutely still see what you're doing. Just because your connection to social media is very secure, it doesn't mean that you can trust the social media site to keep you private.
+
+- Don't sign into any websites you connect to.
+- Don't provide your name, email, home address, phone number, or any other identifying information.
+- Don't use a VPN with Tor.
+- Don't torrent files on Tor. Use a VPN instead.
+- Don't install browser plugins, including adblock.
+- Don't open downloaded documents while connected to the network.
+
+### What is a .onion?
+Onion services allow people to browse and publish anonymously, including publishing anonymous websites. Some Onion services include:
+- Chat
+- File Sharing
+- More secure versions of everyday websites.
+
+Websites that are only available over Tor are called "Onions" and end in .onion. Onion Sites and Services are not indexed in search engines, and can be hard to find. Onion Services hosted by the Tor Project can be found at onion.torproject.org.
+
+### Tor, Onion Services, and the Dark Web
+You may have heard that Tor is "The Dark Web". This is ostensibly true. Some definitions here are helpful here:
+- The Surface Web: This is anything you can find on Google or Bing. Social media, news sites, anything you can find with the right search terms.
+- The Deep Web: This is anything on the regular internet, but you can't search. Pages that require you to be logged in. The contents of your Cloud Storage drive. Companies internal websites for employees. The results of interactions with a website.
+- The Dark Web: Anything accessible only through an "overlay network" like Tor. These sites and their connections are usually encrypted, and run anonymously.
+
+Because of the hidden nature of the Dark Web, there is a significant amount of crime that takes place. However, if a government entity identifies a Dark Web site, it can still be shut down and prosecuted. Users of the site, if they can be identified, can also face legal action. 56.8% of known Dark Web sites are considered "Illicit" or promote illegal activity.
+
+Despite that, there are legitimate uses for the Dark Web. These include:
+- Social Justice
+- Investigative Journalism
+- Private Communications
+
+Don't let the fear mongering scare you. Using Tor to access The Dark Web is not illegal. Only doing Illegal things with it is. As long as you know your rights, operate within the law, and keep yourself anonymous, you will be fine.
 
 ## Additional Digital Security Resources
+
+Protect yourself from "Doxxing"  
+UC Berkeley
+https://oercs.berkeley.edu/privacy/privacy-resources/protect-yourself-doxxing
+
 Turn off your phone! And other basic digital security strategies.  
 https://ia802707.us.archive.org/12/items/zines-security/Turn_Off_Your_Phone.pdf  
 

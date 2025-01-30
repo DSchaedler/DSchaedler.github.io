@@ -57,6 +57,7 @@ If you follow the instructions provided by Tails, people will know that someone 
 This document assumes that you have been provided with a copy of Tails on a USB Drive.  
 
 For the best security, do not plug in your Tails USB stick while another operating system is running on the computer. [5](#5)  
+
 Use your Tails USB stick only to run Tails. Do not use your Tails USB stick to transfer files to or from another operating system. [5](#5)  
 
 Getting into Tails can be tricky. The two primary methods are from inside Windows, or using the computer's Boot Menu key.

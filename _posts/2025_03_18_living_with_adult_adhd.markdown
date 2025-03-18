@@ -57,7 +57,7 @@ This can manifest as:
 
 ### Impulsivity & Hyperactivity
 
-So, knowing that I can't control my Attention, Concentration, Motivation, and Effort, does it start to make sense why ADHD kids are seen as Impulsive & Hyperactive? My brain is constantly filtering my life experience. Trying to find the most interesting, or most rewarding, or most engaging thing to do. Stick me in a room with 20 kids to do someting boring and tell me to sit still and be quiet, and see how you expect that to work. We are just looking for antything to do that is more interesting than what I am doing now. Give me a lava lamp to look at, or a quiet project to do, or let me read while you teach your lesson.
+So, knowing that I can't control my Attention, Concentration, Motivation, and Effort, does it start to make sense why ADHD kids are seen as Impulsive & Hyperactive? My brain is constantly filtering my life experience. Trying to find the most interesting, or most rewarding, or most engaging thing to do. Stick me in a room with 20 kids to do someting boring and tell me to sit still and be quiet, and see how you expect that to work. We are just looking for anything to do that is more interesting than what I am doing now. Give me a lava lamp to look at, or a quiet project to do, or let me read while you teach your lesson.
 
 This can manifest as:
 

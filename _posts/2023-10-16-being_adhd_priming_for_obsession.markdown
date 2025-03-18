@@ -2,7 +2,7 @@
 layout: post
 title: "Being ADHD, Priming for Obsession"
 date: 2023-10-16 10:43:00 -0500
-tags: personal
+tags: Personal
 ---
 
 I'm 26 now, and I have to learn how to be an adult. I never learned how to, being a teacher's pet through school, and dropping out of college. I'm sure many of you can relate, if you were a kid who "Underachieves" and "Has a lot of potential" written on all of your report cards. I'm trying various medications to help adjust, but they don't seem to help me work the way other people do. It's not that I can't focus, it's that I need projects that I'm interested in. If I get a project like that, I spend all of my time optimizing and obsessing over it. My work emails go unanswered and trying to focus on anything else makes me feel restless and sick. Anything which requires self-discipline is a lost cause. Why would I hold my current self accountable to my past self?

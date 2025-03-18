@@ -41,5 +41,11 @@ permalink: /latest/
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
+
+  {% if site.posts[1] %}
+    <a href="{{ site.url | append: site.posts[1].url }}" style="text-align:left;float:left;">
+      &#60;&#60; {{ site.posts[1].title }} | {{ site.posts[1].tags }}
+    </a>
+  {% endif %}
     
 </article>

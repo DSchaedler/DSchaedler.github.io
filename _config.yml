@@ -25,11 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ejectdrive.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-# social links
-# twitter_username: 
-# github_username:  DSchaedler
-# linkedin_username: dschaedler
-
 # Build settings
 plugins:
   - jekyll-remote-theme
@@ -47,7 +42,12 @@ minima:
     - title: LinkedIn Profile
       icon: linkedin
       url: "https://www.linkedin.com/in/dschaedler"
-
+  nav_pages:
+    - latest.md
+    - technology.md
+    - personal.md
+    - about.md
+    - other.md
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

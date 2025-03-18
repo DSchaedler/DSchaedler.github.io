@@ -2,7 +2,7 @@
 layout: post
 title:  "Living with Adult ADHD"
 date:   2025-03-18 00:10:30 -0500
-tags: personal
+tags: Personal
 ---
 
 ## What is ADHD?

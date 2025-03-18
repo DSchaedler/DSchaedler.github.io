@@ -93,7 +93,7 @@ This can manifest as:
  - Nervous energy
  - Easily angered
 
-## So what does all of this mean?
+## So what does this mean for me?
 
 Honestly, it means that ADHD people need a lot of coping skills to understand how to exist in a society that isn't built for us. We are not equipped to hande the expectations of neurotypical people, and when that leads to consequences, our strong sense of hurt, rejection, and justice mean that we can have extremely strong reactions.
 

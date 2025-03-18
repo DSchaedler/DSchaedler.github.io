@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Technology
 permalink: /technology/
 ---

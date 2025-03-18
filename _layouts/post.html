@@ -58,12 +58,12 @@ layout: base
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
   {% if page.previous %}
-    <a href="{{ site.url | append: page.previous.url }}  | {{ page.previous.tags }}" style="text-align:left;float:left;">
+    <a href="{{ site.url | append: page.previous.url }}" style="text-align:left;float:left;">
       &#60;&#60; {{ page.previous.title }} | {{ page.previous.tags }}
     </a>
   {% endif %}
   {% if page.next %}
-    <a href="{{ site.url | append: page.next.url }}  | {{ page.previous.tags }}" style="text-align:right;float:right;">
+    <a href="{{ site.url | append: page.next.url }}" style="text-align:right;float:right;">
       {{ page.next.title }} | {{ page.next.tags }} &#62;&#62;
     </a>
   {% endif %}

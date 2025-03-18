@@ -33,6 +33,12 @@ permalink: /latest/
           {% endfor %}
         {%- endif -%}</p>
   </header>
+
+  {% if site.posts[1] %}
+    <a href="{{ site.url | append: site.posts[1].url }}" style="text-align:left;float:left;">
+      &#60;&#60; {{ site.posts[1].title }} | {{ site.posts[1].tags }}
+    </a>
+  {% endif %}
   
   <div class="post-content e-content" itemprop="articleBody">
     {{ site.posts.first.content }}

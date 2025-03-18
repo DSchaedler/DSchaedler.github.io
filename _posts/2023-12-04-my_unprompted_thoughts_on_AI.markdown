@@ -2,7 +2,7 @@
 layout: post
 title:  "My Unprompted Thoughts on AI"
 date:   2023-12-04 11:46:00 -0500
-tags: technology
+tags: Technology
 ---
 
 This should start with a disclaimer. I am not an AI researcher. I am not a security researcher. I am not a computer scientist. I am a nerd with a website. If you want an actual evaluation of the state of AI, please find someone with more credentials.

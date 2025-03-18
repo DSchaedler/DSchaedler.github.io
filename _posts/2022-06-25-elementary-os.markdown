@@ -2,7 +2,7 @@
 layout: post
 title:  "Elementary OS: Linux Desktop"
 date:   2022-06-25 00:00:00 -0500
-tags: technology
+tags: Technology
 ---
 
 I've always been in a sort of love hate relationship with Linux. I'll try to explain using Android and iOS as an example.

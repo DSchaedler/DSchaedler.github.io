@@ -37,10 +37,16 @@ plugins:
 remote_theme: jekyll/minima
 minima:
   skin: dark
-  social-links:
-    - { platform: github,  user_url: "https://github.com/DSchaedler", title: "My Github" }
-    - { platform: github,  user_url: "https://github.com/DSchaedler/DSchaedler.github.io", title: "Site Source" }
-    - { platform: linkedin,  user_url: "https://www.linkedin.com/in/dschaedler", title: "LinkedIn Profile" }
+  social_links:
+    - title: My Github
+      icon: github
+      url: "https://github.com/DSchaedler"
+    - title: Site Source
+      icon: github
+      url: "https://github.com/DSchaedler/DSchaedler.github.io"  
+    - title: LinkedIn Profile
+      icon: linkedin
+      url: "https://www.linkedin.com/in/dschaedler"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

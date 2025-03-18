@@ -41,6 +41,9 @@ permalink: /latest/
     </a>
   {% endif %}
   
+  <br>
+  <br>
+  
   <div class="post-content e-content" itemprop="articleBody">
     {{ site.posts.first.content }}
   </div>

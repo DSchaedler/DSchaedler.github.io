@@ -40,7 +40,7 @@ layout: base
   {% endif %}
   {% if page.next %}
     <a href="{{ site.url | append: page.next.url }}" style="text-align:right;float:right;">
-      {{ page.next.title }} | {{ page.previous.tags }} &#62;&#62;
+      {{ page.next.title }} | {{ page.next.tags }} &#62;&#62;
     </a>
   {% endif %}
 
@@ -64,7 +64,7 @@ layout: base
   {% endif %}
   {% if page.next %}
     <a href="{{ site.url | append: page.next.url }}  | {{ page.previous.tags }}" style="text-align:right;float:right;">
-      {{ page.next.title }} | {{ page.previous.tags }} &#62;&#62;
+      {{ page.next.title }} | {{ page.next.tags }} &#62;&#62;
     </a>
   {% endif %}
     

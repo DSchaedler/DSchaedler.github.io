@@ -33,15 +33,24 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - title: My Github
+    - title: Github
       icon: github
       url: "https://github.com/DSchaedler"
     - title: Site Source
       icon: github
       url: "https://github.com/DSchaedler/DSchaedler.github.io"  
-    - title: LinkedIn Profile
+    - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/dschaedler"
+    - title: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/ejectdrive.com"
+    - title: Hive
+      icon: hive
+      url: "https://explore.openhive.network/@queenmeteor?activeTab=comments"
+    - title: Nostr
+      icon: creative-commons-by
+      url: "https://njump.me/nprofile1qqsxcqfcjukppq6j8fvtawm7ujr7yt7sseajclf5jfqxk5xtf2q578gpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcu2060y"
   nav_pages:
     - latest.md
     - technology.md

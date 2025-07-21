@@ -47,7 +47,7 @@ minima:
       url: "https://bsky.app/profile/ejectdrive.com"
     - title: Hive
       icon: hive
-      url: "https://explore.openhive.network/@queenmeteor?activeTab=comments"
+      url: "https://hive.blog/@queenmeteor"
     - title: Nostr
       icon: creative-commons-by
       url: "https://njump.me/nprofile1qqsxcqfcjukppq6j8fvtawm7ujr7yt7sseajclf5jfqxk5xtf2q578gpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcu2060y"
